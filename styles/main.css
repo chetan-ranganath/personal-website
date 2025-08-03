@@ -7,18 +7,18 @@
         "wdth" 100;
 }
 
+html {
+    background-image: url('../images/circle-scatter-haikei.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
 
 body {
     font-family: 'Open Sans', sans-serif;
-    background-color: #DFF2EB;
-    color: #4A628A;
-    /* background-image: url('./circle-scatter-haikei.svg'); */
-    aspect-ratio: 960/540;
-    width: 100%;
-    background-repeat: repeat;
-    background-position: center;
-    background-size: cover;
     max-width: 1000px;
+    margin: auto;
     margin: auto;
     /* padding adds space towards the inside of the border */
     padding: 2rem;
@@ -91,7 +91,6 @@ nav a:hover {
     border-radius: 50%;
     width: 200px;
     height: 200px;
-    
     object-fit: cover;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
