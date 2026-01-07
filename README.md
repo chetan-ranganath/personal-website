@@ -2,11 +2,11 @@
 
 This repository contains the source code for my personal portfolio website, designed to showcase my professional experience, technical skills, and projects as a Software Engineer.
 
-## 🔗 Live Site
+## Live Site
 
 [Update with your live URL, e.g., https://chetan-ranganath.github.io/personal-website/]
 
-## 🛠 Built With
+## Built With
 
 - **HTML5** - Semantic structure and accessibility.
 - **CSS3** - Custom styling with CSS Custom Properties (Variables) for theming. Zero external frameworks.
