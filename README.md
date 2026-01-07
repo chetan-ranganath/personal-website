@@ -4,7 +4,7 @@ This repository contains the source code for my personal portfolio website, desi
 
 ## 🔗 Live Site
 
-[Update with your live URL, e.g., https://chetan-ranganath.github.io/]
+[Update with your live URL, e.g., https://chetan-ranganath.github.io/personal-website/]
 
 ## 🛠 Built With
 
